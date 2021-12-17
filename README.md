@@ -2,6 +2,10 @@
 
 This respository contains link of all IOS mini apps I have created for learning IOS Smart Phone Developement
 
+## KitchenShelfOrganizer
+* KitchenShelfOrganizer is an IOS app helping users to organise kitchen shelf efficiently at the home. It helps user to store item details like item name, expiry date and purchase date of item. It allows users to sort the items on multiple criteria ("item name", "expiry date" and "purchase data") hence helping user managing the Kitchen shelf efficiently. KitchenShelfOrganizer lists all the items with upcoming expiry dates.Proper management and proactive notification will result in efficient Kitchen management and reducing waste.
+* For more details [Click here](https://github.com/dj0894/KitchenShelfOrganizer)
+
 
 ##  WeatherApp
 * WeatherApp is an iOS app for showing real time weather for selected place by user. It uses [AccuWeather](https://developer.accuweather.com/apis) API to fetch Information. It uses following Accuweather API's 
